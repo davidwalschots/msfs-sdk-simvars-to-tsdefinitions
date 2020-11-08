@@ -1,0 +1,1 @@
+# msfs-sdk-simvars-to-tsdefinitions
